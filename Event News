@@ -1,0 +1,12 @@
+
+<html>
+  <head>
+    <p> HACKTOBERFEST 2021 is Live Go And participate </p>
+    <body>
+      <script> 
+        alert ("Event is Live" )
+        prompt ("2021 Session is live Yes /No" )
+        </script>
+      </body>
+    </head>
+  </html>
